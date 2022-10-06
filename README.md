@@ -7,7 +7,7 @@
 
 计算器实现了在64位以内浮点数的加减乘除运算、数字正负变换、数字转换百分比、清零这样的基本功能，不支持括号的使用。
 
-![计算器界面](./3D_Lab2/img_calculater.png)
+![计算器界面](https://github.com/L1ttlepsycho/3D_Lab2/blob/main/img_calculater.png)
 
 ## 实现方案
 在 ```OnGUI()```内进行计算器的实现；```Start()```中进行初始化过程，```OnGUI()```中实现“更新”过程。
@@ -236,4 +236,4 @@ if (GUI.Button(new Rect(435, 220, 75, 60), "X"))
 ```
 
 ## 段位展示(手动滑稽)
-![演示效果](./3D_Lab2/Hello%20world%20-%20SampleScene%20-%20Windows%20Mac%20Linux%20-%20Unity%202021.3.8f1c1%20Personal_%20_DX11_%202022-10-06%2017-26-10.gif)
+![演示效果](https://github.com/L1ttlepsycho/3D_Lab2/blob/main/Hello%20world%20-%20SampleScene%20-%20Windows%20Mac%20Linux%20-%20Unity%202021.3.8f1c1%20Personal_%20_DX11_%202022-10-06%2017-26-10.gif)
